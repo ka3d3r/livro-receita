@@ -1,4 +1,7 @@
-## Seja bem vindeo
+## Seja bem vindo
 
-introdução ao Git 
+introdução ao Git e github
+
 aprendendo a cada dia
+
+bora treinar
